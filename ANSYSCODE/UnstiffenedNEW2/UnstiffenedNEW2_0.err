@@ -1,0 +1,12 @@
+/COM,ANSYS RELEASE 2021 R2           BUILD 21.2      UP20210601       02:00:24
+
+ *** ERROR ***                           CP =       4.562   TIME= 02:03:17
+ Element 1 requires material properties and references material number 1 
+ for which no properties are defined.  Checking terminates.              
+
+ *** ERROR ***                           CP =       4.625   TIME= 02:03:20
+ The step data was checked and there were errors found.                  
+  Please check output or errors file (                                   
+ C:\Users\Benti\OneDrive\Documents\University\VN\UnstiffenedNEW2\Unstiff 
+ fenedNEW2_0.err ) for messages.                                         
+/COM,ANSYS RELEASE 2021 R2           BUILD 21.2      UP20210601       05:24:50

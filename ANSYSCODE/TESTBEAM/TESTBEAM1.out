@@ -1,0 +1,339 @@
+
+ Ansys Mechanical Enterprise                       
+
+
+ *------------------------------------------------------------------*
+ |                                                                  |
+ |   W E L C O M E   T O   T H E   A N S Y S (R)  P R O G R A M     |
+ |                                                                  |
+ *------------------------------------------------------------------*
+
+
+
+
+ ***************************************************************
+ *            ANSYS 2021 R2          LEGAL NOTICES             *
+ ***************************************************************
+ *                                                             *
+ * Copyright 1971-2021 ANSYS, Inc.  All rights reserved.       *
+ * Unauthorized use, distribution or duplication is            *
+ * prohibited.                                                 *
+ *                                                             *
+ * Ansys is a registered trademark of ANSYS, Inc. or its       *
+ * subsidiaries in the United States or other countries.       *
+ * See the ANSYS, Inc. online documentation or the ANSYS, Inc. *
+ * documentation CD or online help for the complete Legal      *
+ * Notice.                                                     *
+ *                                                             *
+ ***************************************************************
+ *                                                             *
+ * THIS ANSYS SOFTWARE PRODUCT AND PROGRAM DOCUMENTATION       *
+ * INCLUDE TRADE SECRETS AND CONFIDENTIAL AND PROPRIETARY      *
+ * PRODUCTS OF ANSYS, INC., ITS SUBSIDIARIES, OR LICENSORS.    *
+ * The software products and documentation are furnished by    *
+ * ANSYS, Inc. or its subsidiaries under a software license    *
+ * agreement that contains provisions concerning               *
+ * non-disclosure, copying, length and nature of use,          *
+ * compliance with exporting laws, warranties, disclaimers,    *
+ * limitations of liability, and remedies, and other           *
+ * provisions.  The software products and documentation may be *
+ * used, disclosed, transferred, or copied only in accordance  *
+ * with the terms and conditions of that software license      *
+ * agreement.                                                  *
+ *                                                             *
+ * ANSYS, Inc. is a UL registered                              *
+ * ISO 9001:2015 company.                                      *
+ *                                                             *
+ ***************************************************************
+ *                                                             *
+ * This product is subject to U.S. laws governing export and   *
+ * re-export.                                                  *
+ *                                                             *
+ * For U.S. Government users, except as specifically granted   *
+ * by the ANSYS, Inc. software license agreement, the use,     *
+ * duplication, or disclosure by the United States Government  *
+ * is subject to restrictions stated in the ANSYS, Inc.        *
+ * software license agreement and FAR 12.212 (for non-DOD      *
+ * licenses).                                                  *
+ *                                                             *
+ ***************************************************************
+
+ 2021 R2 
+     
+ Point Releases and Patches installed:   
+     
+ Academic Student 2021 R2
+ Aqwa 2021 R2
+ EnSight 2021 R2 
+ FENSAP-ICE 2021 R2  
+
+
+          *****  ANSYS COMMAND LINE ARGUMENTS  *****
+  INITIAL JOBNAME              = TESTBEAM                                                                                                                                                                                                                                                
+  DISTRIBUTED MEMORY PARALLEL REQUESTED
+       2 PARALLEL PROCESSES REQUESTED WITH SINGLE THREAD PER PROCESS
+    TOTAL OF     2 CORES REQUESTED
+  MPI OPTION                   = INTELMPI
+  START-UP FILE MODE           = NOREAD
+  STOP FILE MODE               = NOREAD
+  GRAPHICS DEVICE REQUESTED    = win32   
+  GRAPHICAL ENTRY              = YES   
+  LANGUAGE                     = en-us               
+  INITIAL DIRECTORY = C:\Users\Benti\OneDrive\Documents\University\VN\TESTBEAM
+
+ RELEASE= 2021 R2              BUILD= 21.2      UP20210601   VERSION=WINDOWS x64 
+ CURRENT JOBNAME=TESTBEAM1  03:23:24  MAY 01, 2022 CP=      0.031
+
+
+ PRINTOUT RESUMED BY /GOP
+
+ PRINTOUT RESUMED BY /GOP
+
+ *****  ANSYS SOLUTION ROUTINE  *****
+
+ FINISH SOLUTION PROCESSING
+
+
+ ***** ROUTINE COMPLETED *****  CP =         0.156
+
+
+
+ *****  ANSYS SOLUTION ROUTINE  *****
+
+ PRINTOUT RESUMED BY /GOP
+
+ PRINTOUT RESUMED BY /GOP
+
+ PRINTOUT RESUMED BY /GOP
+
+ PRINTOUT RESUMED BY /GOP
+
+  BLOCK LANCZOS CALCULATION OF UP TO    10 EIGENVECTORS.
+  NUMBER OF EQUATIONS              =          297
+  MAXIMUM WAVEFRONT                =            6
+  MAXIMUM MODES STORED             =           10
+  MINIMUM EIGENVALUE               =  0.00000E+00
+  MAXIMUM EIGENVALUE               =  0.10000E+31
+
+
+  Local memory allocated for solver              =      0.228 MB
+  Local memory required for in-core solution     =      0.219 MB
+  Local memory required for out-of-core solution =      0.219 MB
+
+ *** NOTE ***                            CP =       0.281   TIME= 03:26:09
+ The Distributed Sparse Matrix Solver used by the Block Lanczos          
+ eigensolver is currently running in the in-core memory mode.  This      
+ memory mode uses the most amount of memory in order to avoid using the  
+ hard drive as much as possible, which most often results in the         
+ fastest solution time.  This mode is recommended if enough physical     
+ memory is present to accommodate all of the solver data.                
+
+ *** ANSYS - ENGINEERING ANALYSIS SYSTEM  RELEASE 2021 R2          21.2     ***
+ DISTRIBUTED Ansys Mechanical Enterprise                       
+
+ 00000000  VERSION=WINDOWS x64   03:26:10  MAY 01, 2022 CP=      0.328
+
+                                                                               
+
+
+
+ *** FREQUENCIES FROM BLOCK LANCZOS ITERATION ***
+
+  MODE    FREQUENCY (HERTZ)      
+
+
+    1     2.305777256310    
+    2     6.354375928338    
+    3     12.45224744424    
+    4     20.57314416995    
+    5     30.71177554443    
+    6     42.85953140242    
+    7     57.00620107483    
+    8     73.13990843376    
+    9     84.12920376276    
+   10     91.24715858091    
+
+ *** ANSYS - ENGINEERING ANALYSIS SYSTEM  RELEASE 2021 R2          21.2     ***
+ DISTRIBUTED Ansys Mechanical Enterprise                       
+
+ 00000000  VERSION=WINDOWS x64   03:26:10  MAY 01, 2022 CP=      0.328
+
+                                                                               
+
+
+
+
+
+          ***** PARTICIPATION FACTOR CALCULATION *****  X  DIRECTION
+                                                                                  CUMULATIVE     RATIO EFF.MASS
+  MODE   FREQUENCY       PERIOD      PARTIC.FACTOR     RATIO    EFFECTIVE MASS   MASS FRACTION   TO TOTAL MASS
+     1     2.30578       0.43369        0.0000        0.000000     0.00000         0.00000         0.00000    
+     2     6.35438       0.15737        0.0000        0.000000     0.00000         0.00000         0.00000    
+     3     12.4522       0.80307E-01    0.0000        0.000000     0.00000         0.00000         0.00000    
+     4     20.5731       0.48607E-01    0.0000        0.000000     0.00000         0.00000         0.00000    
+     5     30.7118       0.32561E-01    0.0000        0.000000     0.00000         0.00000         0.00000    
+     6     42.8595       0.23332E-01    0.0000        0.000000     0.00000         0.00000         0.00000    
+     7     57.0062       0.17542E-01    0.0000        0.000000     0.00000         0.00000         0.00000    
+     8     73.1399       0.13672E-01    0.0000        0.000000     0.00000         0.00000         0.00000    
+     9     84.1292       0.11886E-01    302.70        1.000000     91626.8         1.00000        0.810569    
+    10     91.2472       0.10959E-01    0.0000        0.000000     0.00000         1.00000         0.00000    
+ -----------------------------------------------------------------------------------------------------------------
+   sum                                                             91626.8                        0.810569    
+ -----------------------------------------------------------------------------------------------------------------
+
+
+
+          ***** PARTICIPATION FACTOR CALCULATION *****  Y  DIRECTION
+                                                                                  CUMULATIVE     RATIO EFF.MASS
+  MODE   FREQUENCY       PERIOD      PARTIC.FACTOR     RATIO    EFFECTIVE MASS   MASS FRACTION   TO TOTAL MASS
+     1     2.30578       0.43369        279.32        1.000000     78020.4        0.748240        0.690202    
+     2     6.35438       0.15737        0.0000        0.000000     0.00000        0.748240         0.00000    
+     3     12.4522       0.80307E-01    122.25        0.437667     14945.0        0.891568        0.132210    
+     4     20.5731       0.48607E-01    0.0000        0.000000     0.00000        0.891568         0.00000    
+     5     30.7118       0.32561E-01    77.747        0.278343     6044.62        0.949537        0.534733E-01
+     6     42.8595       0.23332E-01    0.0000        0.000000     0.00000        0.949537         0.00000    
+     7     57.0062       0.17542E-01    56.961        0.203926     3244.54        0.980654        0.287026E-01
+     8     73.1399       0.13672E-01    0.0000        0.000000     0.00000        0.980654         0.00000    
+     9     84.1292       0.11886E-01    0.0000        0.000000     0.00000        0.980654         0.00000    
+    10     91.2472       0.10959E-01    44.914        0.160797     2017.28         1.00000        0.178457E-01
+ -----------------------------------------------------------------------------------------------------------------
+   sum                                                             104272.                        0.922433    
+ -----------------------------------------------------------------------------------------------------------------
+
+
+
+          ***** PARTICIPATION FACTOR CALCULATION *****  Z  DIRECTION
+                                                                                  CUMULATIVE     RATIO EFF.MASS
+  MODE   FREQUENCY       PERIOD      PARTIC.FACTOR     RATIO    EFFECTIVE MASS   MASS FRACTION   TO TOTAL MASS
+     1     2.30578       0.43369        0.0000        0.000000     0.00000         0.00000         0.00000    
+     2     6.35438       0.15737        0.0000        0.000000     0.00000         0.00000         0.00000    
+     3     12.4522       0.80307E-01    0.0000        0.000000     0.00000         0.00000         0.00000    
+     4     20.5731       0.48607E-01    0.0000        0.000000     0.00000         0.00000         0.00000    
+     5     30.7118       0.32561E-01    0.0000        0.000000     0.00000         0.00000         0.00000    
+     6     42.8595       0.23332E-01    0.0000        0.000000     0.00000         0.00000         0.00000    
+     7     57.0062       0.17542E-01    0.0000        0.000000     0.00000         0.00000         0.00000    
+     8     73.1399       0.13672E-01    0.0000        0.000000     0.00000         0.00000         0.00000    
+     9     84.1292       0.11886E-01    0.0000        0.000000     0.00000         0.00000         0.00000    
+    10     91.2472       0.10959E-01    0.0000        0.000000     0.00000         0.00000         0.00000    
+
+
+
+          ***** PARTICIPATION FACTOR CALCULATION *****ROTX DIRECTION
+                                                                                  CUMULATIVE
+  MODE   FREQUENCY       PERIOD      PARTIC.FACTOR     RATIO    EFFECTIVE MASS   MASS FRACTION
+
+     1     2.30578       0.43369        0.0000        0.000000     0.00000         0.00000    
+     2     6.35438       0.15737        0.0000        0.000000     0.00000         0.00000    
+     3     12.4522       0.80307E-01    0.0000        0.000000     0.00000         0.00000    
+     4     20.5731       0.48607E-01    0.0000        0.000000     0.00000         0.00000    
+     5     30.7118       0.32561E-01    0.0000        0.000000     0.00000         0.00000    
+     6     42.8595       0.23332E-01    0.0000        0.000000     0.00000         0.00000    
+     7     57.0062       0.17542E-01    0.0000        0.000000     0.00000         0.00000    
+     8     73.1399       0.13672E-01    0.0000        0.000000     0.00000         0.00000    
+     9     84.1292       0.11886E-01    0.0000        0.000000     0.00000         0.00000    
+    10     91.2472       0.10959E-01    0.0000        0.000000     0.00000         0.00000    
+
+
+
+          ***** PARTICIPATION FACTOR CALCULATION *****ROTY DIRECTION
+                                                                                  CUMULATIVE
+  MODE   FREQUENCY       PERIOD      PARTIC.FACTOR     RATIO    EFFECTIVE MASS   MASS FRACTION
+
+     1     2.30578       0.43369        0.0000        0.000000     0.00000         0.00000    
+     2     6.35438       0.15737        0.0000        0.000000     0.00000         0.00000    
+     3     12.4522       0.80307E-01    0.0000        0.000000     0.00000         0.00000    
+     4     20.5731       0.48607E-01    0.0000        0.000000     0.00000         0.00000    
+     5     30.7118       0.32561E-01    0.0000        0.000000     0.00000         0.00000    
+     6     42.8595       0.23332E-01    0.0000        0.000000     0.00000         0.00000    
+     7     57.0062       0.17542E-01    0.0000        0.000000     0.00000         0.00000    
+     8     73.1399       0.13672E-01    0.0000        0.000000     0.00000         0.00000    
+     9     84.1292       0.11886E-01    0.0000        0.000000     0.00000         0.00000    
+    10     91.2472       0.10959E-01    0.0000        0.000000     0.00000         0.00000    
+
+
+
+          ***** PARTICIPATION FACTOR CALCULATION *****ROTZ DIRECTION
+                                                                                  CUMULATIVE
+  MODE   FREQUENCY       PERIOD      PARTIC.FACTOR     RATIO    EFFECTIVE MASS   MASS FRACTION
+
+     1     2.30578       0.43369        4189.8        1.000000    0.175546E+08    0.586989    
+     2     6.35438       0.15737       -1915.9        0.457265    0.367051E+07    0.709723    
+     3     12.4522       0.80307E-01    1833.7        0.437667    0.336262E+07    0.822162    
+     4     20.5731       0.48607E-01   -1223.9        0.292110    0.149790E+07    0.872249    
+     5     30.7118       0.32561E-01    1166.2        0.278343    0.136004E+07    0.917725    
+     6     42.8595       0.23332E-01    889.47        0.212294     791161.        0.944180    
+     7     57.0062       0.17542E-01    854.41        0.203926     730022.        0.968591    
+     8     73.1399       0.13672E-01    696.74        0.166294     485449.        0.984823    
+     9     84.1292       0.11886E-01    0.0000        0.000000     0.00000        0.984823    
+    10     91.2472       0.10959E-01    673.71        0.160797     453887.         1.00000    
+ ----------------------------------------------------------------------------------------------
+   sum                                                            0.299062E+08
+ ----------------------------------------------------------------------------------------------
+
+
+
+
+
+ *** NOTE ***                            CP =       0.328   TIME= 03:26:10
+ The modes requested are mass normalized (Nrmkey on MODOPT).  However,   
+ the modal masses and kinetic energies below are calculated with unit    
+ normalized modes.                                                       
+
+        ***** MODAL MASSES, KINETIC ENERGIES, AND TRANSLATIONAL EFFECTIVE MASSES SUMMARY *****
+
+                                                                         EFFECTIVE MASS
+  MODE  FREQUENCY   MODAL MASS     KENE      |      X-DIR      RATIO%   Y-DIR      RATIO%   Z-DIR      RATIO% 
+     1   2.306      0.4483E+05  0.4704E+07   |     0.000        0.00  0.7802E+05   69.02   0.000        0.00
+     2   6.354      0.4966E+05  0.3958E+08   |     0.000        0.00   0.000        0.00   0.000        0.00
+     3   12.45      0.4950E+05  0.1515E+09   |     0.000        0.00  0.1494E+05   13.22   0.000        0.00
+     4   20.57      0.4955E+05  0.4140E+09   |     0.000        0.00   0.000        0.00   0.000        0.00
+     5   30.71      0.4965E+05  0.9245E+09   |     0.000        0.00   6045.        5.35   0.000        0.00
+     6   42.86      0.4973E+05  0.1803E+10   |     0.000        0.00   0.000        0.00   0.000        0.00
+     7   57.01      0.4996E+05  0.3205E+10   |     0.000        0.00   3245.        2.87   0.000        0.00
+     8   73.14      0.5044E+05  0.5327E+10   |     0.000        0.00   0.000        0.00   0.000        0.00
+     9   84.13      0.5651E+05  0.7895E+10   |    0.9163E+05   81.06   0.000        0.00   0.000        0.00
+    10   91.25      0.5040E+05  0.8283E+10   |     0.000        0.00   2017.        1.78   0.000        0.00
+ --------------------------------------------------------------------------------------------------------------
+   sum                                       |    0.9163E+05   81.06  0.1043E+06   92.24   0.000        0.00
+ --------------------------------------------------------------------------------------------------------------
+
+
+ *** ANSYS BINARY FILE STATISTICS
+  BUFFER SIZE USED= 16384
+        0.062 MB WRITTEN ON ELEMENT MATRIX FILE: TESTBEAM1.emat
+        0.062 MB WRITTEN ON ELEMENT SAVED DATA FILE: TESTBEAM1.esav
+        0.062 MB WRITTEN ON ASSEMBLED MATRIX FILE: TESTBEAM1.full
+        0.062 MB WRITTEN ON MODAL MATRIX FILE: TESTBEAM1.mode
+        0.375 MB WRITTEN ON RESULTS FILE: TESTBEAM1.rst
+
+ FINISH SOLUTION PROCESSING
+
+
+ ***** ROUTINE COMPLETED *****  CP =         0.391
+
+
+
+
+ NUMBER OF WARNING MESSAGES ENCOUNTERED=          0
+ NUMBER OF ERROR   MESSAGES ENCOUNTERED=          1
+
+
+ *---------------------------------------------------------------------------*
+ |                                                                           |
+ |                       DISTRIBUTED ANSYS RUN COMPLETED                     |
+ |                                                                           |
+ |---------------------------------------------------------------------------|
+ |                                                                           |
+ | Ansys 2021 R2               Build 21.2         UP20210601     WINDOWS x64 |
+ |                                                                           |
+ |---------------------------------------------------------------------------|
+ |                                                                           |
+ | Database Requested(-db)     1 MB    Scratch Memory Requested      1024 MB |
+ | Maximum Database Used       1 MB    Maximum Scratch Memory Used     38 MB |
+ |                                                                           |
+ |---------------------------------------------------------------------------|
+ |                                                                           |
+ |        CP Time      (sec) =          0.516       Time  =  03:30:05        |
+ |        Elapsed Time (sec) =        404.000       Date  =  05/01/2022      |
+ |                                                                           |
+ *---------------------------------------------------------------------------*

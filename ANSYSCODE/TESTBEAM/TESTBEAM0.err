@@ -1,0 +1,626 @@
+/COM,ANSYS RELEASE 2021 R2           BUILD 21.2      UP20210601       03:04:55
+
+ *** ERROR ***                           CP =       5.406   TIME= 03:08:26
+ Real constant set 1 undefined but referenced by element 1.              
+
+ *** ERROR ***                           CP =       5.469   TIME= 03:08:39
+ Real constant set 1 undefined but referenced by element 2.              
+
+ *** ERROR ***                           CP =       5.500   TIME= 03:08:41
+ Real constant set 1 undefined but referenced by element 3.              
+
+ *** ERROR ***                           CP =       5.562   TIME= 03:08:42
+ Real constant set 1 undefined but referenced by element 4.              
+
+ *** ERROR ***                           CP =       5.625   TIME= 03:08:43
+ Real constant set 1 undefined but referenced by element 5.              
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 6.              
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 7.              
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 8.              
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 9.              
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 10.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 11.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 12.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 13.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 14.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 15.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 16.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 17.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 18.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 19.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 20.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 21.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 22.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 23.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 24.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 25.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 26.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 27.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 28.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 29.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 30.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 31.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 32.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 33.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 34.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 35.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 36.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 37.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 38.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 39.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 40.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 41.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 42.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 43.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 44.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 45.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 46.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 47.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 48.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 49.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 50.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 51.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 52.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 53.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 54.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 55.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 56.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 57.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 58.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 59.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 60.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 61.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 62.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 63.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 64.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 65.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 66.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 67.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 68.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 69.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 70.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 71.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 72.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 73.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 74.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 75.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 76.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 77.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 78.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 79.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 80.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 81.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 82.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 83.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 84.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 85.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 86.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 87.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 88.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 89.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 90.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 91.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 92.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 93.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 94.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 95.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 96.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 97.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 98.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 99.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ Real constant set 1 undefined but referenced by element 100.            
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       5.641   TIME= 03:08:44
+ The model data was checked and there were errors found.                 
+  Please check output or errors file (                                   
+ C:\Users\Benti\OneDrive\Documents\University\VN\TESTBEAM\TESTBEAM0.err  
+ ) for messages.                                                         
+/COM,ANSYS RELEASE 2021 R2           BUILD 21.2      UP20210601       03:12:16
+
+ *** ERROR ***                           CP =       1.062   TIME= 03:12:22
+ Data file TESTBEAM.db does not exist for RESUME.                        
+
+ *** ERROR ***                           CP =       6.766   TIME= 03:18:39
+ Real constant set 1 undefined but referenced by element 1.              
+
+ *** ERROR ***                           CP =       7.109   TIME= 03:21:54
+ Real constant set 1 undefined but referenced by element 2.              
+
+ *** ERROR ***                           CP =       7.141   TIME= 03:21:56
+ Real constant set 1 undefined but referenced by element 3.              
+
+ *** ERROR ***                           CP =       7.172   TIME= 03:21:56
+ Real constant set 1 undefined but referenced by element 4.              
+
+ *** ERROR ***                           CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 5.              
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 6.              
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 7.              
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 8.              
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 9.              
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 10.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 11.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 12.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 13.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 14.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 15.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 16.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 17.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 18.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 19.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 20.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 21.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 22.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 23.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 24.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 25.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 26.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 27.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 28.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 29.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 30.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 31.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 32.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 33.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 34.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 35.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 36.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 37.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 38.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 39.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 40.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 41.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 42.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 43.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 44.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 45.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 46.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 47.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 48.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 49.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 50.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 51.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 52.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 53.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 54.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 55.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 56.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 57.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 58.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 59.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 60.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 61.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 62.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 63.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 64.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 65.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 66.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 67.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 68.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 69.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 70.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 71.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 72.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 73.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 74.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 75.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 76.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 77.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 78.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 79.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 80.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 81.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 82.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 83.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 84.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 85.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 86.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 87.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 88.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 89.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 90.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 91.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 92.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 93.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 94.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 95.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 96.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 97.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 98.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 99.             
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ Real constant set 1 undefined but referenced by element 100.            
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =       7.172   TIME= 03:21:57
+ The model data was checked and there were errors found.                 
+  Please check output or errors file (                                   
+ C:\Users\Benti\OneDrive\Documents\University\VN\TESTBEAM\TESTBEAM0.err  
+ ) for messages.                                                         
+
+ *** WARNING ***                         CP =      23.500   TIME= 03:23:08
+ R is not a recognized AUX12 command, abbreviation, or macro.            
+  This command will be ignored.                                          
+/COM,ANSYS RELEASE 2021 R2           BUILD 21.2      UP20210601       03:23:22
+
+ *** ERROR ***                           CP =       3.016   TIME= 03:24:48
+ This function requires defined lines.                                   
+  No lines are currently defined.                                        

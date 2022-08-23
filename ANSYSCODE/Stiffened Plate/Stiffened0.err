@@ -1,0 +1,20 @@
+/COM,ANSYS RELEASE 2021 R2           BUILD 21.2      UP20210601       19:00:56
+/COM,ANSYS RELEASE 2021 R2           BUILD 21.2      UP20210601       19:27:46
+
+ *** ERROR ***                           CP =      11.656   TIME= 19:38:36
+ Element type 1 is SHELL63, which cannot be used with the LMES command.  
+  The LMESH operation is aborted at line 2.                              
+/COM,ANSYS RELEASE 2021 R2           BUILD 21.2      UP20210601       19:39:17
+
+ *** WARNING ***                         CP =       9.438   TIME= 19:47:49
+ All of the selected lines in the set named on the LMESH command were    
+ already meshed.  Clear associated elements before remeshing.            
+
+ *** WARNING ***                         CP =      16.047   TIME= 19:50:50
+ SET is not a recognized SOLUTION command, abbreviation, or macro.       
+  This command will be ignored.                                          
+/COM,ANSYS RELEASE 2021 R2           BUILD 21.2      UP20210601       19:53:20
+/COM,ANSYS RELEASE 2021 R2           BUILD 21.2      UP20210601       19:54:01
+/COM,ANSYS RELEASE 2021 R2           BUILD 21.2      UP20210601       03:37:14
+/COM,ANSYS RELEASE 2021 R2           BUILD 21.2      UP20210601       05:51:34
+/COM,ANSYS RELEASE 2021 R2           BUILD 21.2      UP20210601       20:03:23
